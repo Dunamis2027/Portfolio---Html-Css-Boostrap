@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: center;
     padding-top: 50px;
-    background-image: url(/Images/intro-bg.svg);
+    background-image: url(intro-bg.svg);
     background-size: 100%;
 }
 .dev-namee{
